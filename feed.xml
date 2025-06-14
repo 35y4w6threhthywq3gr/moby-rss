@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Moby Dick Feed</title>
+  <link>https://www.gutenberg.org/ebooks/2701</link>
+  <description>A daily drip of Moby-Dick chapters</description>
+  <language>en-us</language>
+
+  <item>
+    <title>Chapter 1: Loomings</title>
+    <link>https://www.gutenberg.org/cache/epub/2701/pg2701-images.html#link2HCH0001</link>
+    <description><![CDATA[
+      <p>Call me Ishmael...</p>
+    ]]></description>
+    <pubDate>Sat, 14 Jun 2025 09:00:00 GMT</pubDate>
+  </item>
+
+</channel>
+</rss>
